@@ -1,0 +1,7 @@
+{
+  "admin_password_hash": "REPLACE_WITH_SCRYPT_HASH",
+  "quote_source": "local",
+  "posting_time": "09:00",
+  "instagram_username": "your_instagram_username",
+  "instagram_password": "your_instagram_password"
+}

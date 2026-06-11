@@ -1,0 +1,13 @@
+# Credentials and runtime
+.ig_session
+.instagrapi_session
+settings.json
+__pycache__/
+*.pyc
+
+# Generated content
+output/
+
+# Media assets (large/copyrighted, kept local only)
+music/
+videos/
